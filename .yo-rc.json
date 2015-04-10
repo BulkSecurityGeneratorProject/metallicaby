@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "metallica",
+    "packageName": "com.dzmikhalchuk.metallica",
+    "packageFolder": "com/dzmikhalchuk/metallica",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "58fda435e3abff6f351e0c510aecc417670cbc34"
+  }
+}
